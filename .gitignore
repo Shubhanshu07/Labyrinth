@@ -15,7 +15,7 @@ gol/gol/*
 \#*#
 
 # CLion
-labyrinth/cmake-build-debug
+cmake-build-debug
 *.out
 #### python ##########################
 #### DO NOT DELETE PRECEDING LINE
@@ -144,10 +144,4 @@ dmypy.json
 .pyre/
 #### DO NOT DELETE THIS LINE
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
 
